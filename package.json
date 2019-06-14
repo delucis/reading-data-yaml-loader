@@ -1,6 +1,6 @@
 {
   "name": "@delucis/reading-data-yaml-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "YAML file loader plugin for @delucis/reading-data.",
   "main": "index.js",
   "scripts": {
