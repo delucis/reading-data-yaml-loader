@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "YAML file loader plugin for @delucis/reading-data.",
   "main": "index.js",
+  "files": [ "index.js" ],
   "scripts": {
     "build:docs": "jsdoc --configure .jsdoc.json --verbose",
     "clean:docs": "rimraf docs/",
