@@ -23,18 +23,18 @@
   },
   "homepage": "https://github.com/delucis/reading-data-yaml-loader#readme",
   "devDependencies": {
-    "@delucis/reading-data": "^0.4.0",
-    "chai": "^4.1.1",
-    "coveralls": "^2.13.1",
-    "jsdoc": "^3.5.4",
+    "@delucis/reading-data": "^0.8.2",
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.4",
+    "jsdoc": "^3.6.2",
     "minami": "^1.2.3",
-    "mocha": "^3.5.0",
-    "nyc": "^11.1.0",
-    "rimraf": "^2.6.1"
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1",
+    "rimraf": "^2.6.3"
   },
   "dependencies": {
-    "got": "^7.1.0",
+    "got": "^9.6.0",
     "js-yaml": "^3.13.1",
-    "load-yaml-file": "^0.1.0"
+    "load-yaml-file": "^0.2.0"
   }
 }
